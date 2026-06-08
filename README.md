@@ -2,9 +2,7 @@
 
 # Civil Court Simulation with Large Language Models
 
-[![arXiv](https://img.shields.io/badge/arXiv-coming%20soon-b31b1b.svg)](https://arxiv.org/)
-
-A multi-agent framework for simulating Chinese civil court proceedings with large language models.
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/)
 
 </div>
 
