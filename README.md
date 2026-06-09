@@ -2,7 +2,7 @@
 
 # Civil Court Simulation with Large Language Models
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2606.09632)
 
 </div>
 
@@ -124,5 +124,13 @@ The law embedding matrix and FAISS index are generated on the first run and cach
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-
+@misc{chen2026civilcourtsimulationlarge,
+      title={Civil Court Simulation with Large Language Models}, 
+      author={Yifan Chen and Haitao Li and Kaiyuan Zhang and Yueyue Wu and Qingyao Ai and Yiqun Liu},
+      year={2026},
+      eprint={2606.09632},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.09632}, 
+}
 ```
